@@ -30,8 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://heyitsgany.github.io/faq-accordion-card](https://heyitsgany.github.io/faq-accordion-card)
-
 ## My process
 
 ### What I learned
@@ -44,5 +42,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Author
 
-- Frontend Mentor - [@heyitsgany](https://www.frontendmentor.io/profile/heyitsgany)
-- Twitter - [@heyitsgany](https://www.twitter.com/heyitsgany)
+
